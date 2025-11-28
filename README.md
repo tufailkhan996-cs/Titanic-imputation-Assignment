@@ -59,5 +59,4 @@ The Age column was filled using two strategies:
 
 ---
 
-## ✔ Final Notes
-This assignment demonstrates how data preprocessing can improve the quality and reliability of datasets before performing any analysis or machine learning tasks.
+
